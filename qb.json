@@ -1,0 +1,44 @@
+{"Questions": [
+            {
+                "question": "1. La décomposition en une suite d'étapes d'un programme destiné à résoudre un problème ou à accomplir une tâche déterminée.",
+                "answers": [
+                    {"r1":"Equation"},
+                    {"r2":"Algorythme"},
+                    {"r3":"Liste"}
+                    
+                ]
+            },
+            {
+                "question": "2.Quelle comparaison est fausse quand $a = 34 et que $b=\"34\" ?",
+                "answers": [
+                    {"r1":" $a===$b"},
+                    {"r2":"$a=$b"},
+                    {"r3":"$a==$b"}
+                ]
+            },
+            {
+                "question": "3. Comment comment ferais tu pour identifier une base de donnée portant le nom de \"Musée\" en sql ?",
+                "answers": [
+                    {"r1":"SELECT * FROM Musée"},
+                    {"r2":"FROM Musée TO DB"},
+                    {"r3":"SELECT Musée"}
+                ]
+            },
+            {
+                "question": "4. Un reveur lisant des revues sur les verrues.... quoi ? Qui se cache derriere ces 3 anagrammes (reveur , verrues , revues)? ",
+                "answers": [
+                    {"r1":"serveur"},
+                    {"r2":"revues"},
+                    {"r3":"verseur"}
+                ]
+            },
+            {
+                "question": "5.A quel language correspond cette fonctionalité  - include \"./connexion/db.___\"; Réponse php",
+                "answers": [
+                    {"r1":"php"},
+                    {"r2":"Python"},
+                    {"r3":"Eliphant"}
+                ]
+            }
+        ]
+}
